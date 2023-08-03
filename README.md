@@ -1,4 +1,4 @@
-# Grocery-Store-GUI
+# Grocery Store GUI
  A GUI of a grocery store built using Python Tkinter for local grocery vendors.
  Backed it with SQLite database for CRUD operations.
 
